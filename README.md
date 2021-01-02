@@ -1,3 +1,2 @@
 # Food Delivery App
-1)Food delivery app assignment
-2) Implement Kotlin, RxJava, Retrofit.
+#1)Food delivery app assignment(Implement Kotlin, RxJava, Retrofit)
